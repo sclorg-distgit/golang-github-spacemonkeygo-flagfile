@@ -1,0 +1,1 @@
+# golang-github-spacemonkeygo-flagfile
